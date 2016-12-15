@@ -22,7 +22,7 @@ The following assumes you have all of the recommended tools listed above install
 
 #### 1. Clone the project:
 
-    $ git clone git@github.com/syedwaseemjan/currently-viewing-app.git
+    $ git clone git@github.com:syedwaseemjan/currently-viewing-app.git
     $ cd currently-viewing-app
 
 #### 2. Install dependencies:
